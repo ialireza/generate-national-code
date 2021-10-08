@@ -1,0 +1,7 @@
+# Default #
+__pycache__
+/venv
+
+# IDE and editor specific files #
+/nbproject
+.idea
